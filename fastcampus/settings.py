@@ -92,7 +92,7 @@ DATABASES = {
     }
 }
 # 데이터베이스 이름 : project1
-# 비밀번호 : songggi111!
+# 비밀번호 : admin1234
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
